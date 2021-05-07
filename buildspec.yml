@@ -22,4 +22,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: .next
+  base-directory: .next/dist/pages
